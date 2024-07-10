@@ -1,0 +1,17 @@
+
+.bg-image {
+    background-image:url("https://img.freepik.com/free-photo/beautiful-palm-tree-vivid-colors_23-2151591865.jpg?t=st=1720632426~exp=1720636026~hmac=40eb60ca25220c24e07b39a92a99d0cf39a908244f10534bac28dd6f92b460c4&w=360");
+    height: 500px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.bgi {
+    background-image:url("https://img.freepik.com/free-photo/beautiful-vertical-shot-taj-mahal-building-agra-india-cloudy-sky_181624-16913.jpg?w=360&t=st=1701439850~exp=1701440450~hmac=d7ac3bddece600ab586175213db383fbe6ffd107ac6e3c9f0d743a8330291096");
+    height: 500px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
